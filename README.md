@@ -1,1 +1,6 @@
-# apt
+# apt# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x377ECed8aBc7FaA5dAEE8ad630e82C50fFF56e26'
+quorum: 1
